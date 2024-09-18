@@ -1,0 +1,6 @@
+POST http://localhost:3333/api/goals-completions 
+content-type: application/json
+
+{
+    "goalId": "i70vd1vbwi58kjzonk2kz9lp"
+}
